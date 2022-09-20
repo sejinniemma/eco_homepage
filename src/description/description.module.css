@@ -1,0 +1,58 @@
+.description {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 400px;
+  height: 700px;
+  padding: 20px;
+  text-align: start;
+}
+
+.au_title {
+  font-size: 70px;
+  color: #2d2d4a;
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+.canada_title {
+  font-size: 70px;
+  margin: 0;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.description_canada {
+  color: white;
+  font-weight: 400;
+  line-height: 1.6;
+  font-size: 1rem;
+  margin: 0;
+  padding-top: 8px;
+}
+
+.description_au {
+  color: #2d2d4a;
+  font-weight: 400;
+  line-height: 1.6;
+  font-size: 1rem;
+  margin: 0;
+  padding-top: 8px;
+}
+
+.au_word {
+  padding-bottom: 8px;
+  color: #2d2d4a;
+}
+.canada_word {
+  color: white;
+  padding-bottom: 8px;
+}
+
+.hr {
+  width: 100%;
+  text-align: left;
+  margin-left: 0;
+}

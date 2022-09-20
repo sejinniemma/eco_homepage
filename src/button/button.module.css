@@ -1,0 +1,25 @@
+.button {
+  position: absolute;
+  right: 20px;
+  bottom: 40px;
+  text-decoration: none;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 50%;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.9;
+}
+
+.button.canada {
+  color: #2d2d4a;
+  background-color: white;
+}
+
+.button.au {
+  background-color: #2d2d4a;
+  color: white;
+}
